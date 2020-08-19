@@ -1,1 +1,1 @@
-web: setup.sh && run scrabbleproj.py
+web: sh setup.sh && run scrabbleproj.py
