@@ -1,5 +1,4 @@
 import streamlit as st
-from PIL import Image
 def scrabble(deck):
     answer = []
     wordstxt = open('sowpods.txt', 'r').read()
